@@ -1,4 +1,19 @@
+
 h1{
   text-align: center;
   margin-top: 232px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 90px;
+  line-height: 105px;
+}
+
+input{
+  display: block;
+  margin: 0 auto;
+  width: 616px;
+  height: 46px;
+  border: 1px solid #DFE1E5;
+  border-radius: 24px;
 }
